@@ -1,5 +1,7 @@
 # 5min JUCE Sample Code
 
+* YouTube 채널 주소 : https://www.youtube.com/@seoulartcrews1059
+
 * All the sample code was used in the Contents of the 5min JUCE YouTube channel.
 * 모든 샘플 코드는 5min JUCE 유튜브 채널의 콘텐츠에서 사용된 것들입니다.
 
